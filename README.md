@@ -1,7 +1,5 @@
-Apunte teórico
+Apuntes o base teórica
 # **Procesamiento de Modelos Digitales de Elevación (DEM) y generación de curvas de nivel mediante Python.**
-
-
 ---
 Complemento del notebook práctico: \
 [[Ver Práctico](https://colab.research.google.com/drive/1QaGiX9CZP2mPCnkvYON3lY6cXKd0FTBE?usp=sharing)]
