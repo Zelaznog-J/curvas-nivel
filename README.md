@@ -1,6 +1,7 @@
 Apuntes o base teórica
 # **Procesamiento de Modelos Digitales de Elevación (DEM) y generación de curvas de nivel mediante Python.**
 ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zelaznog-J/curvas-nivel/blob/main/dem_curvas_nivel.ipynb)
 Complemento del notebook práctico: \
 [[Ver Práctico](https://colab.research.google.com/drive/1QaGiX9CZP2mPCnkvYON3lY6cXKd0FTBE?usp=sharing)]
 
